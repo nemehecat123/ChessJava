@@ -1,0 +1,20 @@
+figura ma svoj:
+
+POLOŽAJ [] []
+
+Kaj je ta figura
+
+kako se premika
+
+se lahko premakne sploh ke
+
+
+al je crna al je bela (boolean)
+
+
+{ // object arrayou za use figure
+    položaj : [x][y]
+    barva: //crna/bela barva je neka metoda
+    kajJeTaFigura : "Kralj" //enumearate razišči kaj to je
+    aloBstajaAlNe : boolean
+}
